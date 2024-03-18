@@ -43,13 +43,13 @@ Pathway utilizes Google Firebase in order to authenticate users and store user i
 ## Prototype Designs
 
 <p align="center" width="100%">
-    <img width="50%" src="/prototypeimages/signup.png">
+    <img width="50%" src="/PrototypeImages/signup.png">
 </p>
 <p align="center" width="100%">
-    <img width="50%" src="/prototypeimages/login.png"">
+    <img width="50%" src="/PrototypeImages/login.png"">
 </p>
 <p align="center" width="100%">
-    <img width="50%" src="/prototypeimages/overview.png"">
+    <img width="50%" src="/PrototypeImages/overview.png"">
 </p>
 
 [Original Idea Proposal](https://docs.google.com/document/d/12T0b-e87_eChFAIsiES9U5QxapTsxlRZ/edit)
