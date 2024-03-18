@@ -1,7 +1,7 @@
 # CS374 Final Project - Pathway
 
 <p align="center" width="100%">
-    <img width="50%" src="https://cdn.discordapp.com/attachments/381066127129706501/1106352858577776650/image.png">
+    <img width="50%" src="/PrototypeImages/pathway.png">
 </p>
 
 ## Proposal
